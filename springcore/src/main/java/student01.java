@@ -3,6 +3,7 @@ public class student01 {
         System.out.println("firstkiss");
     }
     public void subVersion(){
+        String webaddress="www.google.cn";
         System.out.println("subversion");
     }
 
